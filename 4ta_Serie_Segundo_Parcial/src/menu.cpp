@@ -2,5 +2,5 @@
 
 menu::menu()
 {
-    //ctor
+    //prueba
 }
